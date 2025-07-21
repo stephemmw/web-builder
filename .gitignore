@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Static and uploads
+staticfiles/
+uploads/
+media/
+
+# SQlite
+*.sqlite3
+
+# VirtualEnvironment and configs
+venv/
+env/
+.env
+.conf
